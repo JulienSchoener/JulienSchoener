@@ -1,6 +1,4 @@
-# Hi there! 👋
-
-My name is **Julien**.
+# Hi, I'm Julien
 
 I have decided to change my career path to go with new trends and jumped into the field of Python Back End Developer and here I am looking for opportunities to apply my experience.
 
@@ -10,8 +8,6 @@ I have decided to change my career path to go with new trends and jumped into th
 - 🎨 Imaginative
 - 🔭 Insightful developer with a practical and hands-on approach to tackling challenges.
 - 🌍 Multilingual: Fluent in **6 languages**.
-
-My fascination lies in all things related to technology 💻.
 
 ## My Training and Experience
 
