@@ -9,7 +9,6 @@ I have decided to change my career path to go with new trends and jumped into th
 - 🥇 Enthusiastic
 - 🎨 Imaginative
 - 🔭 Insightful developer with a practical and hands-on approach to tackling challenges.
-- 📚 I have an insatiable thirst for learning.
 - 🌍 Multilingual: Fluent in **6 languages**.
 
 My fascination lies in all things related to technology 💻.
@@ -28,7 +27,7 @@ My fascination lies in all things related to technology 💻.
 
 ---
 
-I'm always open to new ideas and opportunities. Feel free to reach out!
+Always open to new ideas and opportunities. Feel free to reach out!
 
 
 ## 🌐 Socials:
@@ -42,8 +41,6 @@ I'm always open to new ideas and opportunities. Feel free to reach out!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulienSchoener&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=JulienSchoener&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JulienSchoener&icon=0&color=0)](https://visitcount.itsvg.in)
