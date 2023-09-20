@@ -2,7 +2,7 @@
 
 My name is **Julien**.
 
-I have decided to change my career path to go with new trends and jumped into the field of Python Back End Developer. I'm currently looking for opportunities to apply my experience.
+I have decided to change my career path to go with new trends and jumped into the field of Python Back End Developer and here I am looking for opportunities to apply my experience.
 
 ## About Me
 
@@ -40,10 +40,6 @@ Always open to new ideas and opportunities. Feel free to reach out!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JulienSchoener&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JulienSchoener&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
----
-[![](https://visitcount.itsvg.in/api?id=JulienSchoener&icon=0&color=0)](https://visitcount.itsvg.in)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
