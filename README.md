@@ -27,7 +27,7 @@ My fascination lies in all things related to technology 💻.
 
 ---
 
-Always open to new ideas and opportunities. Feel free to reach out!
+Always open to new ideas and opportunities.
 
 
 ## 🌐 Socials:
