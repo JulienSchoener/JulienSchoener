@@ -1,4 +1,35 @@
-## Hello there! 👋 My name is Julien, I have decided to change my career path to go with new trends and jumped into the field of Python Back End Developer and am currently looking for opportunities to apply my experience. I'm a Python Developer, enthusiastic 🥇, imaginative 🎨, and insightful 🔭 developer with a practical and hands-on approach to tackling challenges, and an insatiable thirst for learning 📚. My fascination lies in all things related to technology 💻. Accomplishing a one-year-full-time training including Python, SQL, Databases, Django Framework, APIs, Cloud Services Completing multiple small and one final large practical project to practice programming skills. I'm always open to new ideas and opportunities.
+# Hello there! 👋
+
+My name is **Julien**.
+
+I have decided to change my career path to go with new trends and jumped into the field of Python Back End Developer. I'm currently looking for opportunities to apply my experience.
+
+## About Me
+
+- 🥇 Enthusiastic
+- 🎨 Imaginative
+- 🔭 Insightful developer with a practical and hands-on approach to tackling challenges.
+- 📚 I have an insatiable thirst for learning.
+- 🌍 Multilingual: Fluent in **6 languages**.
+
+My fascination lies in all things related to technology 💻.
+
+## My Training and Experience
+
+- Completed a **one-year-full-time training** which included:
+  - Python
+  - SQL
+  - Databases
+  - Django Framework
+  - APIs
+  - Cloud Services
+
+- Successfully completed multiple small projects and one final large practical project to practice my programming skills.
+
+---
+
+I'm always open to new ideas and opportunities. Feel free to reach out!
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/julien_plus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julienschoener) 
