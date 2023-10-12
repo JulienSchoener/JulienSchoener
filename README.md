@@ -1,6 +1,6 @@
 # Hi, I'm Julien
 
-I have decided to change my career path to go with new trends and jumped into the field of Python Back End Developer and here I am looking for opportunities to apply my experience.
+I have decided to change my career path to go with new trends and jumped into the field of Python Back End Developer and here I am.
 
 ## About Me
 
