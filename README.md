@@ -1,23 +1,12 @@
-# Hi, I'm Julien
-
-I have decided to change my career path to go with new trends and jumped into the field of Python Back End Developer and here I am.
+# 👋 Hi, I'm Julien 
+– a passionate Python Developer transitioning from the banking sector to tech. My journey into backend development reflects a commitment to embracing digital trends and innovation.
 
 ## About Me
-
-- 🥇 Enthusiastic
-- 🎨 Imaginative
-- 🔭 Insightful developer with a practical and hands-on approach to tackling challenges.
-- 🌍 Multilingual: Fluent in **6 languages**.
+- Transitioning from a successful career in banking to technology, I bring a unique blend of analytical skills, creativity (as an award-winning photographer), and a multilingual background (fluent in 6 languages). My approach to development is both imaginative and pragmatic, aimed at delivering practical solutions.
 
 ## My Training and Experience
 
-- Completed a **one-year-full-time training** which included:
-  - Python
-  - SQL
-  - Databases
-  - Django Framework
-  - APIs
-  - Cloud Services
+- 📚 My Training: Completed an intensive year-long program at the Digital Career Institute, Berlin, mastering Python, SQL, Django, APIs, and Cloud Services. I've applied these skills in various projects, demonstrating my ability to solve real-world problems with code.
 
 - Successfully completed multiple small projects and one final large practical project to practice my programming skills.
 
