@@ -6,7 +6,7 @@
 
 ## My Training and Experience
 
-- 📚 My Training: Completed an intensive year-long program at the Digital Career Institute, Berlin, mastering Python, SQL, Django, APIs, and Cloud Services. I've applied these skills in various projects, demonstrating my ability to solve real-world problems with code.
+📚 My Training: Completed an intensive year-long program at the Digital Career Institute, Berlin, mastering Python, SQL, Django, APIs, and Cloud Services. I've applied these skills in various projects, demonstrating my ability to solve real-world problems with code.
 
 - Successfully completed multiple small projects and one final large practical project to practice my programming skills.
 
