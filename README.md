@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Julien 
- a passionate Python Developer transitioning from the banking sector to tech. My journey into backend development reflects a commitment to embracing digital trends and innovation.
+ A passionate Python Developer transitioning from the banking sector to tech. My journey into backend development reflects a commitment to embracing digital trends and innovation.
 
 ## About Me
 - Transitioning from a successful career in banking to technology, I bring a unique blend of analytical skills, creativity (as an award-winning photographer), and a multilingual background (fluent in 6 languages). My approach to development is both imaginative and pragmatic, aimed at delivering practical solutions.
