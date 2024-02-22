@@ -3,17 +3,20 @@
  This interest, reminiscent of the intrigue I felt while playing Nintendo games in my childhood, drives my passion for exploring and contributing to the field of automation and AI.
 
 ## About Me
-- Transitioning from a successful career in banking to technology, I bring a unique blend of analytical skills, creativity (as an award-winning photographer), and a multilingual background (fluent in 6 languages). My approach to development is both imaginative and pragmatic, aimed at delivering practical solutions.
+- Transitioning from a successful career in banking to technology, I bring a unique blend of analytical skills, creativity (as an award-winning photographer), and a multilingual background (fluent in 6 languages). My approach to development is both imaginative and pragmatic, aimed at delivering practical solutions. Being proactive and proficient in communication are among my strengths.
+- LinkedIn [Recommendations](https://www.linkedin.com/in/julienschoener/details/recommendations/?detailScreenTabIndex=0)
 
 ## My Training and Experience
 
-📚 My Training: Completed an intensive year-long full time program at the Digital Career Institute, Berlin, mastering Python, SQL, Django, APIs, and Cloud Services. I've applied these skills in various projects, demonstrating my ability to solve real-world problems with code.
+📚 My Training: Completed an intensive year-long full-time program at the Digital Career Institute, Berlin, mastering Python, SQL, Django, APIs, and Cloud Services. I've applied these skills in various projects, demonstrating my ability to solve real-world problems with code.
 
-- Successfully completed multiple small projects and one final large practical project to practice my programming skills.
+- Completed multiple small projects and one final large practical project: [Petoshield](https://www.linkedin.com/in/julienschoener/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAMkid4BJGMAWTcToZWKq95QDyadWT1lFZI)
+- watch 12 minute [video presentation here](https://www.canva.com/design/DAF2ajwwf0c/BZJ9TM9rU5kGmdeVRnH7ZQ/watch) add. role: Scrum Master
+
 
 ---
 
-Always open to new ideas and opportunities.
+Reach out & connect with me
 
 
 ## 
