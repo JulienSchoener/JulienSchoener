@@ -3,7 +3,7 @@
  This interest, reminiscent of the intrigue I felt while playing Nintendo games in my childhood, drives my passion for exploring and contributing to the field of automation and AI.
 
 ## About Me
-- Transitioning from a successful career in banking to technology, I bring a unique blend of analytical skills, creativity (as an award-winning photographer), and a multilingual background (fluent in 6 languages). My approach to development is both imaginative and pragmatic, aimed at delivering practical solutions. Being proactive and proficient in communication are among my strengths.
+- Transitioning from a career in banking to technology, I bring a unique blend of analytical skills, creativity (as an award-winning photographer), and a multilingual background (fluent in 6 languages). My approach to development is both imaginative and pragmatic, aimed at delivering practical solutions. Being proactive and proficient in communication are among my strengths.
 - LinkedIn [Recommendations](https://www.linkedin.com/in/julienschoener/details/recommendations/?detailScreenTabIndex=0)
 
 ## My Training and Experience
