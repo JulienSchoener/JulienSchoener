@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Julien 
  My fascination with automation, sparked by experiences in my former banking sector role, has only grown with the advancements in AI. 
- This interest, reminiscent of the intrigue I felt while playing Nintendo games in my childhood, drives my passion for exploring and contributing to the field of automation and AI.
+ This interest, reminiscent of the intrigue I felt while playing the first Nintendo games in my childhood, drives my passion for exploring and contributing to the field of automation and AI.
 
 ## About Me
 - Transitioning from a career in banking to technology, I bring a unique blend of analytical skills, creativity (as an award-winning photographer), and a multilingual background (fluent in 6 languages). My approach to development is both imaginative and pragmatic, aimed at delivering practical solutions. Being proactive and proficient in communication are among my strengths.
@@ -16,7 +16,7 @@
 
 ---
 
-Feel free to get in touch and connect with me
+Feel free to get in touch and connect
 
 ## 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/julien_plus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julienschoener) 
